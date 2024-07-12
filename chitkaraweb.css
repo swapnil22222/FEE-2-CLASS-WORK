@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#bg{
+    background-size: cover;
+    /* display:;
+    margin-left: 0;
+    margin-right: 0; */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+header{
+    background-color: red;
+    margin: 0%;
+    padding-bottom: ;
+}
+#redline{
+    background-color: red;
+    height: 6px;
+
+}
+#cuimg{
+    position: absolute;
+    /* float: right; */
+    top: 0px;
+    right: 10px;
+}
+#container{
+    margin-left: 685px;
+    background-color: white;
+    border: 2px solid;
+    width: 285px;
+    height: 570px;
+    
+}
+table{
+    justify-content: center;
+}
+#upimg{
+    margin margin-left: 40px;
+}
+
+#input{
+    
+}
+
+
